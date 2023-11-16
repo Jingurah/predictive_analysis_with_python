@@ -1,0 +1,10 @@
+Task:
+The table contains 11 columns of numbers. The first 10 columns are input variables (x_1 , .... , x_10), the 11th column is the output predicted variable y. Each line in the file is one training example for building a statistical model for the dependence y = y(x_1,x_2,..,x_10). The specific type of relationship between output and input variables is not known.
+It is required to conduct an exploratory analysis of the data, select a criterion for the accuracy of the model, and indicate the degree of importance (informativeness) of each of the 10 input variables in terms of the accuracy of the model. What else can be offered to improve the result? 
+It is also required to describe an approach to solving such problems on a PowerPoint slide.
+
+File:
+preliminary_task.txt
+
+Solution format:
+Jupiter notebook with code and presentation of the logic of the solution, the logic of possible improvements;
